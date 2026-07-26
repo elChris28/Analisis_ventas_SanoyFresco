@@ -86,9 +86,13 @@ Finalmente se desarrolló un dashboard interactivo con:
 ## 📈 Resultados
 
 ✔ Procesamiento de más de **4 millones de registros**
+
 ✔ Identificación de patrones de compra entre productos
+
 ✔ Descubrimiento de oportunidades de venta cruzada
+
 ✔ Dashboard interactivo para análisis comercial
+
 ✔ Pipeline completo desde SQL → Python → Power BI
 
 ---
